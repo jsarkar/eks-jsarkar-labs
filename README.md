@@ -8,7 +8,7 @@ Create a quick development grade `EKS` cluster using tf.
 
 ## Sample Config
 
-    * Create tfvar file with following config
+    // Create tfvar file with following config
 
     
     region       = "us-east-1"
