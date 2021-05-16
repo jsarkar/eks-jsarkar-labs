@@ -10,7 +10,7 @@ Create a quick development grade `EKS` cluster using tf.
 
     * Create tfvar file with following config
 
-    ```
+    
     region       = "us-east-1"
     cluster_name = "jsarkarlabs-test"
     vpc_id       = "vpc-XXXXXXXXX"
@@ -18,5 +18,5 @@ Create a quick development grade `EKS` cluster using tf.
                     "subnet-XXXXXXX",
                     "subnet-XXXXXXX",
                    ]
-    ```
+    
 
